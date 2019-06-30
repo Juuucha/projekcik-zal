@@ -1,0 +1,11 @@
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\bin\Debug\Za malo za duzo.exe.config
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\bin\Debug\Za malo za duzo.exe
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\bin\Debug\Za malo za duzo.pdb
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za malo za duzo.csprojAssemblyReference.cache
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za_malo_za_duzo.Form1.resources
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za_malo_za_duzo.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za malo za duzo.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za malo za duzo.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za malo za duzo.exe
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za malo za duzo.pdb
+C:\Users\Tomek\Desktop\Za malo za duzo\Za malo za duzo\obj\Debug\Za_malo_za_duzo.GameHistoryForm.resources
